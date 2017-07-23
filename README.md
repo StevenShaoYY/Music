@@ -1,6 +1,6 @@
 # vue-music
 
-> 类似qq音乐的播放器，调用qq音乐接口
+> 类似qq音乐的播放器，调用qq音乐接口.
 
 ## Build Setup
 
