@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="../../../../../font_9vd4t6ftcun89f6r/iconfont.css">
 <template>
   <div class="search">
     <div class="search-box-wrapper">
