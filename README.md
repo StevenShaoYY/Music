@@ -1,6 +1,9 @@
 # vue-music
 
 > 类似qq音乐的播放器，调用qq音乐接口.
+*首页
+
+![idnex gif](https://github.com/StevenShaoYY/Music/blob/master/screenshot/index.gif)
 
 ## Build Setup
 
