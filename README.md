@@ -1,11 +1,32 @@
 # vue-music
 
-> 类似qq音乐的播放器，调用qq音乐接口.
-*首页
+类似qq音乐的播放器，调用qq音乐接口.
 
-![idnex gif](https://github.com/StevenShaoYY/Music/blob/master/screenshot/index.gif)
+### 技术栈
+1. vue
+2. vuex
+3. vue-router
+4. axios
+5. stylus
 
-## Build Setup
+### 页面
+* 首页
+
+![index gif](https://github.com/StevenShaoYY/Music/blob/master/screenshot/index.gif)
+
+* 歌手列表页
+
+![singer gif](https://github.com/StevenShaoYY/Music/blob/master/screenshot/singerList.gif)
+
+* 推荐页
+
+![recommend gif](https://github.com/StevenShaoYY/Music/blob/master/screenshot/recommend.gif)
+
+* 搜索页
+
+![index gif](https://github.com/StevenShaoYY/Music/blob/master/screenshot/search.gif)
+
+## 构建
 
 ``` bash
 # install dependencies
